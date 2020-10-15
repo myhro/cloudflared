@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+**This project is deprecated now that the [cloudflare/cloudflared][docker-hub] image is available at Docker Hub.**
+
 myhro/cloudflared
 =================
 
@@ -26,3 +31,4 @@ The `--no-autoupdate` flag is needed, otherwise the binary can try to update its
 
 
 [cloudflared]: https://github.com/cloudflare/cloudflared
+[docker-hub]: https://hub.docker.com/r/cloudflare/cloudflared
